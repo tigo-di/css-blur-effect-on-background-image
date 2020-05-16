@@ -1,7 +1,7 @@
 {
-  "name": "blur-effect-on-background-image-with-css",
+  "name": "css-blur-effect",
   "version": "1.0.0",
-  "description": "",
+  "description": "CSS Bluer Effect on background image",
   "main": "index.html",
   "scripts": {
     "start": "serve"
